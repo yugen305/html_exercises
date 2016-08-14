@@ -1,0 +1,77 @@
+.centered_article {
+	width: 1000px;
+	height: 1000px;
+	margin: auto;
+	background-color: #A1B0B5;
+}
+
+.left_section {
+	display:inline-block;
+	width: 440px;
+	height: 200px;
+	padding: 10px;
+	box-sizing: border-box;
+	margin-left: 28px;
+	margin-top: 20px;
+	background-color: #FFFFFF;
+}
+
+.right_section {
+	display:inline-block;
+	float: right;
+	width: 420px;
+	height: 550px;
+	padding: 10px;
+	box-sizing: border-box;	
+	margin-right: 28px;
+	margin-top: 20px;
+	background-color: #FFFFFF;
+}
+
+.bottom_section {
+	width: 945px;
+	height: 600px;
+	margin: 5px;
+	padding: 10px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	margin-left: 28px;
+	background-color: #FFFFFF;
+}
+
+#trivia {
+	padding-left: 0px;
+}
+
+#trivia li {
+	display:inline;
+	padding-right: 20px;
+	padding-left: 0px;
+}
+
+
+header {
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	padding: 5px;
+} 
+
+footer {
+	width: 100%;
+	height: 10px;
+	text-align: center;
+	padding: 5px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+        height: auto;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
